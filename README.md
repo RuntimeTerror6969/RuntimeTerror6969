@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Aadarsh
+👋 Hi, I’m Aadarsh<br><br>
 I’m currently working on MERN stack<br><br>I’m looking to collaborate on web development projects<br><br>I’m looking for help with DevOps<br><br>I’m currently learning data analysis and machine learning<br><br>Ask me about Data Structures and Algorithms (DSA), web development, software development
 
 
